@@ -1,4 +1,4 @@
-# geo-app
+# Chat
 
 > A Vue.js project
 
